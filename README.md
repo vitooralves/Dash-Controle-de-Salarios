@@ -2,9 +2,11 @@
 📊 Dashboard de Gestão de Salários
 
 📌 Visão Geral
+
 Este BI foi desenvolvido para consolidar e analisar os gastos com salários da empresa, permitindo uma visão clara e detalhada por departamento, cargo e localização. O objetivo é facilitar a gestão financeira e apoiar a tomada de decisão estratégica.
 
 🛠️ Funcionalidades
+
 Resumo Financeiro:
 
 Gastos totais com salários
@@ -32,6 +34,7 @@ Visualização Gráfica:
 Gráfico de barras mostrando a distribuição dos salários por departamento
 
 📈 Principais Indicadores
+
 Gastos totais com salários: R$ 61,78 mil
 
 Salário bruto: R$ 57,2 mil
@@ -49,6 +52,7 @@ FGTS: R$ 4,58 mil
 Salário líquido a pagar: R$ 38,90 mil
 
 📊 Insights
+
 O departamento de Produção concentra o maior gasto (R$ 19,7 mil).
 
 Compras e Contabilidade também representam parcelas significativas (R$ 15,8 mil e R$ 12,2 mil).
@@ -58,6 +62,7 @@ O RH aparece com menor participação (R$ 7,4 mil).
 A distribuição por cargos mostra que Supervisores e Operários são os maiores grupos em termos de custo.
 
 🚀 Benefícios
+
 Transparência na gestão de salários
 
 Facilidade para identificar gargalos e otimizar custos
