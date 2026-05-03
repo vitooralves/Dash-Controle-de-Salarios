@@ -1,5 +1,6 @@
 <img width="1015" height="573" alt="image" src="https://github.com/user-attachments/assets/1898abe4-507f-4e22-9121-0ae76f5ed016" />
 📊 Dashboard de Gestão de Salários
+
 📌 Visão Geral
 Este BI foi desenvolvido para consolidar e analisar os gastos com salários da empresa, permitindo uma visão clara e detalhada por departamento, cargo e localização. O objetivo é facilitar a gestão financeira e apoiar a tomada de decisão estratégica.
 
